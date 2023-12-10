@@ -5,5 +5,13 @@
       "item": "book",
       "price": 500
     }
+  ],
+  "myBills": [
+    {
+      "id": 1,
+      "item": "book",
+      "price": 500,
+      "quantity": 1
+    }
   ]
 }
