@@ -11,7 +11,8 @@
       "id": 1,
       "item": "book",
       "price": 500,
-      "quantity": 1
+      "quantity": 1,
+      "date": "9/12/2023, 6:50:21 PM"
     }
   ]
 }
