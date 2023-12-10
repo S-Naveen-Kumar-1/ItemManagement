@@ -9,10 +9,17 @@
   "myBills": [
     {
       "id": 1,
-      "item": "book",
+      "itemName": "book",
       "price": 500,
       "quantity": 1,
       "date": "9/12/2023, 6:50:21 PM"
+    },
+    {
+      "itemName": "XBox",
+      "price": "65000",
+      "quantity": 1,
+      "date": "10/12/2023, 19:22:27",
+      "id": 2
     }
   ]
 }
